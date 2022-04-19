@@ -72,7 +72,5 @@ This is the css code used to create the top borders:
 
 ### Useful resources
 
-- [Tailwind box shadows](https://tailwindcss.com/docs/box-shadow) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Florin Pop livestream on youtube](https://youtu.be/PcSUEo0P0GU) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Tailwind box shadows](https://tailwindcss.com/docs/box-shadow)
+- [Florin Pop livestream on youtube](https://youtu.be/PcSUEo0P0GU)
